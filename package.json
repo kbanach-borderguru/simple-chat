@@ -1,0 +1,16 @@
+{
+  "name": "simple-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "k.banach@borderguru.com",
+  "license": "ISC",
+  "dependencies": {
+    "ecstatic": "^2.2.1",
+    "redis": "^2.7.1",
+    "ws": "^3.0.0"
+  }
+}
